@@ -1,0 +1,212 @@
+Id,Title,Description,Published
+1,Fundamentals of Wavelets,signal_processing,TRUE
+2,Data Smart,data_science,TRUE
+3,God Created the Integers,mathematics,TRUE
+4,Superfreakonomics,economics,TRUE
+5,Orientalism,history,TRUE
+6,"Nature of Statistical Learning Theory, The",data_science,TRUE
+7,Integration of the Indian States,history,TRUE
+8,"Drunkard's Walk, The",science,TRUE
+9,Image Processing & Mathematical Morphology,signal_processing,TRUE
+10,How to Think Like Sherlock Holmes,psychology,TRUE
+11,Data Scientists at Work,data_science,TRUE
+12,Slaughterhouse Five,fiction,TRUE
+13,Birth of a Theorem,mathematics,TRUE
+14,Structure & Interpretation of Computer Programs,computer_science,TRUE
+15,"Age of Wrath, The",history,TRUE
+16,"Trial, The",fiction,TRUE
+17,Statistical Decision Theory',data_science,TRUE
+18,Data Mining Handbook,data_science,TRUE
+19,"New Machiavelli, The",fiction,TRUE
+20,Physics & Philosophy,science,TRUE
+21,Making Software,computer_science,TRUE
+22,"Analysis, Vol I",mathematics,TRUE
+23,Machine Learning for Hackers,data_science,TRUE
+24,"Signal and the Noise, The",data_science,TRUE
+25,Python for Data Analysis,data_science,TRUE
+26,Introduction to Algorithms,computer_science,TRUE
+27,"Beautiful and the Damned, The",nonfiction,TRUE
+28,"Outsider, The",fiction,TRUE
+29,"Complete Sherlock Holmes, The - Vol I",fiction,TRUE
+30,"Complete Sherlock Holmes, The - Vol II",fiction,TRUE
+31,"Wealth of Nations, The",economics,TRUE
+32,"Pillars of the Earth, The",fiction,TRUE
+33,Mein Kampf,nonfiction,TRUE
+34,"Tao of Physics, The",science,TRUE
+35,Surely You're Joking Mr Feynman,science,TRUE
+36,"Farewell to Arms, A",fiction,TRUE
+37,"Veteran, The",fiction,TRUE
+38,False Impressions,fiction,TRUE
+39,"Last Lecture, The",nonfiction,TRUE
+40,Return of the Primitive,philosophy,TRUE
+41,Jurassic Park,fiction,TRUE
+42,"Russian Journal, A",nonfiction,TRUE
+43,Tales of Mystery and Imagination,fiction,TRUE
+44,Freakonomics,economics,TRUE
+45,"Hidden Connections, The",science,TRUE
+46,"Story of Philosophy, The",philosophy,TRUE
+47,Asami Asami,fiction,TRUE
+48,Journal of a Novel,fiction,TRUE
+49,Once There Was a War,nonfiction,TRUE
+50,"Moon is Down, The",fiction,TRUE
+51,"Brethren, The",fiction,TRUE
+52,In a Free State,fiction,TRUE
+53,Catch 22,fiction,TRUE
+54,"Complete Mastermind, The",nonfiction,TRUE
+55,Dylan on Dylan,nonfiction,TRUE
+56,Soft Computing & Intelligent Systems,data_science,TRUE
+57,Textbook of Economic Theory,economics,TRUE
+58,Econometric Analysis,economics,TRUE
+59,Learning OpenCV,data_science,TRUE
+60,Data Structures Using C & C++,computer_science,TRUE
+61,"Computer Vision, A Modern Approach",data_science,TRUE
+62,Principles of Communication Systems,computer_science,TRUE
+63,Let Us C,computer_science,TRUE
+64,"Amulet of Samarkand, The",fiction,TRUE
+65,Crime and Punishment,fiction,TRUE
+66,Angels & Demons,fiction,TRUE
+67,"Argumentative Indian, The",nonfiction,TRUE
+68,Sea of Poppies,fiction,TRUE
+69,"Idea of Justice, The",nonfiction,TRUE
+70,"Raisin in the Sun, A",fiction,TRUE
+71,All the President's Men,history,TRUE
+72,"Prisoner of Birth, A",fiction,TRUE
+73,Scoop!,history,TRUE
+74,Ahe Manohar Tari,nonfiction,TRUE
+75,"Last Mughal, The",history,TRUE
+76,"Social Choice & Welfare, Vol 39 No. 1",economics,TRUE
+77,Radiowaril Bhashane & Shrutika,nonfiction,TRUE
+78,Gun Gayin Awadi,nonfiction,TRUE
+79,Aghal Paghal,nonfiction,TRUE
+80,Maqta-e-Ghalib,fiction,TRUE
+81,Beyond Degrees,nonfiction,TRUE
+82,Manasa,nonfiction,TRUE
+83,India from Midnight to Milennium,history,TRUE
+84,"World's Greatest Trials, The",history,TRUE
+85,"Great Indian Novel, The",fiction,TRUE
+86,O Jerusalem!,history,TRUE
+87,"City of Joy, The",fiction,TRUE
+88,Freedom at Midnight,history,TRUE
+89,"Winter of Our Discontent, The",fiction,TRUE
+90,On Education,philosophy,TRUE
+91,Free Will,philosophy,TRUE
+92,Bookless in Baghdad,nonfiction,TRUE
+93,"Case of the Lame Canary, The",fiction,TRUE
+94,"Theory of Everything, The",science,TRUE
+95,New Markets & Other Essays,economics,TRUE
+96,Electric Universe,science,TRUE
+97,"Hunchback of Notre Dame, The",fiction,TRUE
+98,Burning Bright,fiction,TRUE
+99,"Age of Discontuinity, The",economics,TRUE
+100,Doctor in the Nude,fiction,TRUE
+101,Down and Out in Paris & London,nonfiction,TRUE
+102,Identity & Violence,philosophy,TRUE
+103,Beyond the Three Seas,history,TRUE
+104,"World's Greatest Short Stories, The",fiction,TRUE
+105,Talking Straight,nonfiction,TRUE
+106,"Maugham's Collected Short Stories, Vol 3",fiction,TRUE
+107,"Phantom of Manhattan, The",fiction,TRUE
+108,Ashenden of The British Agent,fiction,TRUE
+109,Zen & The Art of Motorcycle Maintenance,philosophy,TRUE
+110,"Great War for Civilization, The",history,TRUE
+111,We the Living,fiction,TRUE
+112,"Artist and the Mathematician, The",science,TRUE
+113,History of Western Philosophy,philosophy,TRUE
+114,Selected Short Stories,fiction,TRUE
+115,Rationality & Freedom,economics,TRUE
+116,Clash of Civilizations and Remaking of the World Order,history,TRUE
+117,Uncommon Wisdom,nonfiction,TRUE
+118,One,nonfiction,TRUE
+119,Karl Marx Biography,nonfiction,TRUE
+120,To Sir With Love,fiction,TRUE
+121,Half A Life,fiction,TRUE
+122,"Discovery of India, The",history,TRUE
+123,Apulki,nonfiction,TRUE
+124,Unpopular Essays,philosophy,TRUE
+125,"Deceiver, The",fiction,TRUE
+126,Veil: Secret Wars of the CIA,history,TRUE
+127,Char Shabda,nonfiction,TRUE
+128,Rosy is My Relative,fiction,TRUE
+129,"Moon and Sixpence, The",fiction,TRUE
+130,Political Philosophers,philosophy,TRUE
+131,"Short History of the World, A",history,TRUE
+132,"Trembling of a Leaf, The",fiction,TRUE
+133,Doctor on the Brain,fiction,TRUE
+134,Simpsons & Their Mathematical Secrets,science,TRUE
+135,Pattern Classification,data_science,TRUE
+136,From Beirut to Jerusalem,history,TRUE
+137,"Code Book, The",science,TRUE
+138,"Age of the Warrior, The",history,TRUE
+139,Final Crisis,comic,TRUE
+140,"Killing Joke, The",comic,TRUE
+141,Flashpoint,comic,TRUE
+142,Batman Earth One,comic,TRUE
+143,Crisis on Infinite Earths,comic,TRUE
+144,"Numbers Behind Numb3rs, The",science,TRUE
+145,Superman Earth One - 1,comic,TRUE
+146,Superman Earth One - 2,comic,TRUE
+147,Justice League: Throne of Atlantis,comic,TRUE
+148,Justice League: The Villain's Journey,comic,TRUE
+149,"Death of Superman, The",comic,TRUE
+150,History of the DC Universe,comic,TRUE
+151,Batman: The Long Halloween,comic,TRUE
+152,"Life in Letters, A",nonfiction,TRUE
+153,"Information, The",science,TRUE
+154,"Journal of Economics, vol 106 No 3",economics,TRUE
+155,Elements of Information Theory,data_science,TRUE
+156,Power Electronics - Rashid,computer_science,TRUE
+157,Power Electronics - Mohan,computer_science,TRUE
+158,Neural Networks,data_science,TRUE
+159,"Grapes of Wrath, The",fiction,TRUE
+160,Vyakti ani Valli,nonfiction,TRUE
+161,Statistical Learning Theory,data_science,TRUE
+162,Empire of the Mughal - The Tainted Throne,history,TRUE
+163,Empire of the Mughal - Brothers at War,history,TRUE
+164,Empire of the Mughal - Ruler of the World,history,TRUE
+165,Empire of the Mughal - The Serpent's Tooth,history,TRUE
+166,Empire of the Mughal - Raiders from the North,history,TRUE
+167,Mossad,history,TRUE
+168,Jim Corbett Omnibus,nonfiction,TRUE
+169,20000 Leagues Under the Sea,fiction,TRUE
+170,Batatyachi Chal,fiction,TRUE
+171,Hafasavnuk,fiction,TRUE
+172,Urlasurla,fiction,TRUE
+173,Pointers in C,computer_science,TRUE
+174,"Cathedral and the Bazaar, The",computer_science,TRUE
+175,Design with OpAmps,computer_science,TRUE
+176,Think Complexity,data_science,TRUE
+177,"Devil's Advocate, The",fiction,TRUE
+178,Ayn Rand Answers,philosophy,TRUE
+179,Philosophy: Who Needs It,philosophy,TRUE
+180,"World's Great Thinkers, The",philosophy,TRUE
+181,Data Analysis with Open Source Tools,data_science,TRUE
+182,Broca's Brain,science,TRUE
+183,Men of Mathematics,mathematics,TRUE
+184,Oxford book of Modern Science Writing,science,TRUE
+185,"Justice, Judiciary and Democracy",philosophy,TRUE
+186,"Arthashastra, The",philosophy,TRUE
+187,We the People,philosophy,TRUE
+188,We the Nation,philosophy,TRUE
+189,"Courtroom Genius, The",nonfiction,TRUE
+190,Dongri to Dubai,nonfiction,TRUE
+191,"History of England, Foundation",history,TRUE
+192,City of Djinns,history,TRUE
+193,India's Legal System,nonfiction,TRUE
+194,More Tears to Cry,fiction,TRUE
+195,"Ropemaker, The",fiction,TRUE
+196,Angels & Demons,fiction,TRUE
+197,"Judge, The",fiction,TRUE
+198,"Attorney, The",fiction,TRUE
+199,"Prince, The",philosophy,TRUE
+200,Eyeless in Gaza,fiction,TRUE
+201,Tales of Beedle the Bard,fiction,TRUE
+202,Girl with the Dragon Tattoo,fiction,TRUE
+203,Girl who kicked the Hornet's Nest,fiction,TRUE
+204,Girl who played with Fire,fiction,TRUE
+205,Batman Handbook,comic,TRUE
+206,Murphy's Law,nonfiction,TRUE
+207,Structure and Randomness,mathematics,TRUE
+208,Image Processing with MATLAB,signal_processing,TRUE
+209,Animal Farm,fiction,TRUE
+210,"Idiot, The",fiction,TRUE
+211,"Christmas Carol, A",fiction,TRUE
